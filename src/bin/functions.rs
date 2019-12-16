@@ -1,10 +1,19 @@
 
 fn main() {
-    println!("Hello, world!");
+    let s = String::from("hello");
+    
+    takes_ownership(s);
 
-    another_function();
+    let x = 5;
+
+    makes_copy(x);
+    
 }
 
-fn another_function() {
-    println!("Another function.");  // 別の関数
+fn takes_ownership(some_string: String){
+    println!("{}", some_string);
+}
+
+fn makes_copy(some_interger: i32){
+    println!("{}", some_interger);
 }
