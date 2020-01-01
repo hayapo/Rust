@@ -1,0 +1,1 @@
+/mnt/c/ubuntu.home/rust/projects/Rust/communicator/target/debug/libcommunicator.rlib: /mnt/c/ubuntu.home/rust/projects/Rust/communicator/src/lib.rs /mnt/c/ubuntu.home/rust/projects/Rust/communicator/src/network/mod.rs /mnt/c/ubuntu.home/rust/projects/Rust/communicator/src/network/server.rs
